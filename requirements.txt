@@ -1,0 +1,6 @@
+torch
+torchvision
+escnn
+numpy
+pillow
+tqdm
